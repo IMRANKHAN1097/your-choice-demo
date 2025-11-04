@@ -1,3 +1,3 @@
 # your-choice-demo
-this is a versatile learning platform
+this is a versatile learning platform.
 Author - Imran khan
